@@ -1,0 +1,33 @@
+/*font-family: 'Indie Flower', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Ropa Sans', sans-serif;
+*/
+* {
+	background-color: #E0D3D3;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+#heading {
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+	margin-bottom: 0;
+}
+#todo {
+	height: 35px;
+	width: 30%;
+	font-size: 20px;
+}
+input:placeholder-shown {
+  font-size: 20px;
+}
+.btn {
+	font-family: 'Ropa Sans', sans-serif;
+}
+#orderedList {
+	font-size: 20px;
+}
+li {
+	text-align: left;
+}
+
+
